@@ -1,3 +1,3 @@
 base:
-  'evl-web01':
+  '<username>-web01':
     - apache2
