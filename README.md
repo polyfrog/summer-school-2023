@@ -86,5 +86,5 @@ salt-ssh '*' pillar.items
 ## Запуск установки
 
 ```bash
-salt-ssh '*' state.apply apache2
+salt-ssh '*' state.apply
 ```
